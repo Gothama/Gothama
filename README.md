@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gothama Rajawasam
 - 👀 I’m a Management and Information Technology Undergraduate of University of Kelaniya and a BIT Undergraduate of University of Moratuwa.
-- 🌱 Technologies - HTML, CSS, JavaScript, PHP, Bootstrap, React, MongoDB, Express, Node, java , C, C#, C++, MySQL, Android, SQLite, MS SQL, SpringBoot, Hibernate
+- 🌱 Technologies - HTML, CSS, JavaScript, PHP, Bootstrap, React, MongoDB, Express, Node, java , C, C#, C++, MySQL, Android, SQLite, MS SQL, SpringBoot, Hibernate, Firebase
 <!---- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...--->
 
