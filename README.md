@@ -2,7 +2,7 @@
 - 👀 I’m a Management and Information Technology Third year Undergraduate of University of Kelaniya.
 - 👀 I’m a Bachelor of Information Technology Final Year Undergraduate of University of Moratuwa.
 - 🏢 I'm currently working as a Software Engineer (Intern) at WSO2
-- 🌱 Technologies - HTML, CSS, JavaScript, PHP, Bootstrap, React, MongoDB, Express, Node, java , C, C#, C++, MySQL, Android, SQLite, MS SQL, SpringBoot, Hibernate, Firebase
+- 🌱 Technologies - HTML, CSS, JavaScript, PHP, Bootstrap, React, MongoDB, Express, Node, java , C, C#, C++, MySQL, Android, SQLite, MS SQL, SpringBoot, Hibernate, Firebase, JSP, Servlet.
 <!---- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...--->
 
